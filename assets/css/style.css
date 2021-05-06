@@ -1,0 +1,44 @@
+.casilla {
+  background-color: white;
+  border: 2px solid black;
+  width: 165px;
+  height: 35px;
+  text-align: right;
+}
+
+.historial {
+  color: white;
+  text-align: right;
+}
+
+.redondo {
+  display: block;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+
+.cRed {
+  background-color: red;
+}
+.cDark {
+  color: white;
+  background-color: black;
+}
+
+.cGreen {
+  background-color: rgb(0, 255, 34);
+}
+
+.tituloC {
+  text-align: center;
+  font-size: 20px;
+}
+
+.contenedor {
+  background-color: gray;
+  width: 175px;
+  border: 2px solid black;
+  padding: 0% 2% 2% 2%;
+  border-radius: 15px;
+}
